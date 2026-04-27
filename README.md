@@ -1,1 +1,1 @@
-[Открыть магазин напрямую](samsungapps://Main)
+<a href="samsungapps://Main">Открыть Galaxy Store</a>
