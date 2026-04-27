@@ -1,1 +1,1 @@
-[Открыть Galaxy Store](https://samsung.com)
+[Открыть магазин напрямую](samsungapps://Main)
