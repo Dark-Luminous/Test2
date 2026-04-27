@@ -1,1 +1,1 @@
-[![Открыть Galaxy Store](https://shields.io)](samsungapps://Main)
+samsungapps://Main
