@@ -5,6 +5,6 @@
     <title>Redirecting...</title>
 </head>
 <body>
-    <p>Если вы не перенаправлены, <a href="https://www.google.com">нажмите здесь</a>.</p>
+    <p>Если вы не перенаправлены, <a href="https://www.duckduckgo.com">нажмите здесь</a>.</p>
 </body>
 </html>
